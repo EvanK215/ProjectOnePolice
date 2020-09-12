@@ -1,0 +1,17 @@
+Age Demographics,Victim Threat level,Victim Threat level
+unknown,other,1
+<18,attack,62
+<18,other,39
+<18,undetermined,4
+18-25,attack,494
+18-25,other,233
+18-25,undetermined,53
+26-39,attack,1493
+26-39,other,737
+26-39,undetermined,129
+40-65,attack,1140
+40-65,other,497
+40-65,undetermined,82
+65+,attack,122
+65+,other,33
+65+,undetermined,7

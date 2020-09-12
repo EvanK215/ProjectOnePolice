@@ -1,0 +1,19 @@
+Age Demographics,Geography,Geography
+unknown,Rural,1
+unknown,Suburban,1
+unknown,Urban,1
+<18,Suburban,80
+<18,Urban,53
+<18,Rural,16
+18-25,Suburban,612
+18-25,Urban,408
+18-25,Rural,172
+26-39,Suburban,1697
+26-39,Urban,955
+26-39,Rural,694
+40-65,Suburban,1201
+40-65,Rural,688
+40-65,Urban,583
+65+,Suburban,118
+65+,Rural,84
+65+,Urban,37
