@@ -10,17 +10,17 @@ of each race in each state .
 # Observable Trends 
 
 * 684 fatal shootings occurred in CA which consist of approximately 14% of all shootings. THe top 3 states in terms of total number of shootings are in California ,Texas and Florida 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/State.png "State vs Total Deaths")
 
 * Most people who are shot are younger than 40's 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/Age.png  "Age in each State vs Total Deaths")
 
 * The ratio for black people (B) is clearly higher than other races. The native (N) and other (O) have very low population so a more logical comparison would be among black (B), white (W), hispanic (H), and asian (A) races.
 The ratio of deaths_per_million for black(B) people is double the ratio of hispanic(H)people . The diffrence between black(B) and White(W) people are even more.
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ ![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/StatevsRace.png "Racial Deaths per State")
  
  * Asians are shot the most in the state of Florida 
-  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  ![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/RaceineachState.png  "Race in each State vs Total Deaths")
 
 # Summary
 
