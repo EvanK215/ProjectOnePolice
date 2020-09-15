@@ -24,8 +24,13 @@ of each race in each state .
  ![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/StatevsRace.png "Racial Deaths per State")
  * If we consider the race of people involved to total population of their race in each state Asians are shot the most in the state of Florida 
   ![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/RaceineachState.png  "Race in each State vs Total Deaths")
+  
+ 4. Is there any continuous upward or downward trend in the daily number of shootings from 2015 to 2020
+ * Although there is a peak we cannot observe any continuous trend
+   ![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/10dayave.png  "10 Day Average")
 
 # Summary
 
-I used python data analysis ,visualization libraries and gmaps to analyze and visualize police shootings based on State
+I used python data analysis ,visualization libraries and gmaps to analyze and visualize police shootings based on State. Used Gmaps to represent the total people shot by police in each city 
+![alt text](https://github.com/EvanK215/ProjectOnePolice/blob/RJbranch/Images/Totalkillingsineachcity.png "Total people shot in each city")
 
