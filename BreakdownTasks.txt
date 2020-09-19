@@ -1,0 +1,16 @@
+Roshini
+1. In which state the total no deaths due to police shootings was highest?
+2. What were the age group of the people shot by police in each state? 
+3. Which race is affected the most in the top 4 states in terms of total number of deaths ?
+4. Is there any continuous upward or downward trend in the daily number of shootings from 2015 to 2020
+
+Paul
+(1) divided victims in 6 age group, then calculate total amount of victims by gender
+(2) Determine which gender has the most total victims. As result, male gender take place for the most total victims.
+(3) Calculate the total of victim threat level(Attack, Others, Undetermined) in each group age, attack violence took place in the most victim threat level
+(4) Since we know most victims are come from male gender, we would like to determine the total number of male victims with attack violence, and compare the percentage in total victims and just total victims in male gender
+(5) Calculate the total victims rate in city types (Rural, Suburban, Urban)in each group age, Suburban took place for in the city type
+(6) Since we know most victims are come from male gender, we would like to determine the total number of male victims in suburban, and compare the percentage in total victims and just total victims in male gender
+
+Chritina
+Year Trends
