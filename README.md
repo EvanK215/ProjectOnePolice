@@ -17,23 +17,23 @@ The file fatal-police-shootings-data.csv contains data about each of the fatal s
         
         
         
-        ![](gender_age.png)
+![](gender_age.png)
           Male victimin age group 26-39 is 43.13% in male total, and female victims in age group 26-39 is 20.21% in total victims. Age group 26-39 took the highest victim shooting rate.
           
           
-          ![](threat_levlel_age.png)
+![](threat_levlel_age.png)
           Threat level with attack is 50% higher than others in age group 26-39
           
           
-          ![](male victims attack.png)
+![](male victims attack.png)
           Male victims with threat level:attack, is the highest in age group 26-39, 99% are from male victims
           
           
-          ![](citytypes_age.png)
+![](citytypes_age.png)
           Suburban has the highest victim fatal porpotion in age group 26-39
           
           
-          ![](sub_male.png)
+![](sub_male.png)
           Male victim is the highest in subburban with 94% in male victims
           
           
